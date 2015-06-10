@@ -1,4 +1,3 @@
-/* jshint -W030 */
 'use strict';
 
 import RedditApi from '../lib/reddit-api';
